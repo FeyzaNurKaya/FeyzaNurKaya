@@ -1,22 +1,29 @@
-Hi 👋, I'm Feyza Nur Kaya
+**Hi 👋, I'm Feyza Nur Kaya**
+
 
 Junior Frontend Developer | React & React Native
 
 🌟 Welcome to my profile! Here are some highlights of my work:
 
-🔭 I'm currently working on web development projects .
+- 🔭 I'm currently working on web development projects .
 
-🌱 I'm learning and improving my skills in React, React Native, Next.js, Tailwind CSS, TypeScript, JavaScript and Vite
+* 🌱 I'm learning and improving my skills in React, React Native, Next.js, Tailwind CSS, TypeScript, JavaScript and Vite
+  
+
+**🌐 Connect with me:**
 
 
-🛠️ Technologies & Tools I Use:
+# https://www.linkedin.com/in/feyza-nur-kaya-355356231/
 
-Languages: TypeScript, JavaScript
 
-Frontend: React, React Native Next.js, Vite, Tailwind CSS
+**🛠️ Technologies & Tools I Use:**
 
-Databases: SQL, Firebase
+**Languages:** TypeScript, JavaScript
 
-Version Control: Git, GitHub
+**Frontend:** React, React Native Next.js, Vite, Tailwind CSS
 
-Tools: VS Code, Postman, Figma
+**Databases:** SQL, Firebase
+
+**Version Control:** Git, GitHub
+
+**Tools:** VS Code, Postman, Figma
