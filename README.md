@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi 👋, I'm Feyza Nur Kaya
+Junior Frontend Developer | React & React Native
 
-<!--
-**FeyzaNurKaya/FeyzaNurKaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 Welcome to my profile! Here are some highlights of my work:
 
-Here are some ideas to get you started:
+🔭 I'm currently working on web development projects .
+🌱 I'm learning and improving my skills in React, React Native, Next.js, Tailwind CSS, TypeScript, JavaScript and Vite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Connect with me:
+https://www.linkedin.com/in/feyza-nur-kaya-355356231/
+
+🛠️ Technologies & Tools I Use:
+Languages: TypeScript, JavaScript
+Frontend: React, React Native Next.js, Vite, Tailwind CSS
+Databases: SQL, Firebase
+Version Control: Git, GitHub
+Tools: VS Code, Postman
