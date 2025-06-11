@@ -1,4 +1,4 @@
-# **Hi 👋, I'm Feyza Nur Kaya**
+## **Hi 👋, I'm Feyza Nur Kaya**
 
 
 **Junior Frontend Developer | React & React Native**
@@ -12,7 +12,7 @@
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/feyza-nur-kaya-355356231)
 
-**🛠️ Technologies & Tools I Use:**
+## **🛠️ Technologies & Tools I Use:**
 
 **Languages:** TypeScript, JavaScript
 
