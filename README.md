@@ -10,7 +10,7 @@
 * 🌱 I'm learning and improving my skills in React, React Native, Next.js, Tailwind CSS, TypeScript, JavaScript and Vite
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/feyza-nur-kaya-355356231)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/feyza-nur-kaya-355356231)
 
 **🛠️ Technologies & Tools I Use:**
 
